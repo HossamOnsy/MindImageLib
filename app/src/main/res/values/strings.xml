@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MindValleyImageLib</string>
+    <string name="preference_file_key">com.MINDVALLEY.LIB</string>
+</resources>
